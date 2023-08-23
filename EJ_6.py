@@ -42,3 +42,4 @@ class Persona:
 
     def es_mayor_de_edad(self):
         return self.edad >= 18
+
